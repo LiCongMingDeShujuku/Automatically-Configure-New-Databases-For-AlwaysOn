@@ -4,8 +4,6 @@
 ### Automatically Configure New Databases For AlwaysOn
 **发布-日期:  2016年09月30日 (评论)**
 
-![##############](images/image0012.png?raw=true "#######")
-
 ## Contents
 
 - [中文](#中文)
